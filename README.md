@@ -36,6 +36,10 @@ Cada ejercicio incluye:
 | **08** | [Conteo de Vocales en un Texto](./ejercicios/intermedio/ej08_vocales.md) | [Ver solución](./ejercicios/intermedio/ej08_vocales.md) |
 | **09** | [Generación de la Serie de Fibonacci](./ejercicios/intermedio/ej09_fibonacci.md) | [Ver solución](./ejercicios/intermedio/ej09_fibonacci.md) |
 | **10** | [Validación de Contraseña con Intentos Limitados](./ejercicios/intermedio/ej10_login.md) | [Ver solución](./ejercicios/intermedio/ej10_login.md) |
+
+### Nivel Avanzado 
+| N° | Ejercicio | Enlace al Archivo |
+| :---: | :--- | :--- |
 | **11** | [Ejercicio 11](./ejercicios/intermedio/ej11_nombre.md) | [Ver solución](./ejercicios/intermedio/ej11_nombre.md) |
 | **12** | [Ejercicio 12](./ejercicios/intermedio/ej12_nombre.md) | [Ver solución](./ejercicios/intermedio/ej12_nombre.md) |
 | **13** | [Ejercicio 13](./ejercicios/intermedio/ej13_nombre.md) | [Ver solución](./ejercicios/intermedio/ej13_nombre.md) |
