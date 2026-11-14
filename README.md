@@ -26,11 +26,11 @@ Cada ejercicio incluye:
 | **03** | [Nombre o descripción breve del ejercicio 3](./ejercicio_03.md) | [Ver solución](./ejercicios/basico/ej03_positivo_negativo.md) |
 | **04** | [Nombre o descripción breve del ejercicio 4](./ejercicio_04.md) | [Ver solución](./ejercicios/basico/ej04_calculadora.md) |
 | **05** | [Nombre o descripción breve del ejercicio 5](./ejercicio_05.md) | [Ver solución](./ejercicios/basico/ej05_temperatura.md) |
-| **06** | [Nombre o descripción breve del ejercicio 6](./ejercicio_06.md) | [Ver solución](./ejercicios/basico/ej06_suma_pares.md) |
-| **07** | [Nombre o descripción breve del ejercicio 7](./ejercicio_07.md) | [Ver solución](./ejercicios/basico/ej07_factorial.md) |
-| **08** | [Nombre o descripción breve del ejercicio 8](./ejercicio_08.md) | [Ver solución](./ejercicios/basico/ej08_vocales.md) |
-| **09** | [Nombre o descripción breve del ejercicio 9](./ejercicio_09.md) | [Ver solución](./ejercicios/basico/ej09_fibonacci.md) |
-| **10** | [Nombre o descripción breve del ejercicio 10](./ejercicio_10.md) | [Ver solución](./ejercicios/basico/ej10_login.md) |
+| **06** | [Nombre o descripción breve del ejercicio 6](./ejercicio_06.md) | [Ver solución](./ejercicios/intermedio/ej06_suma_pares.md) |
+| **07** | [Nombre o descripción breve del ejercicio 7](./ejercicio_07.md) | [Ver solución](./ejercicios/intermedio/ej07_factorial.md) |
+| **08** | [Nombre o descripción breve del ejercicio 8](./ejercicio_08.md) | [Ver solución](./ejercicios/intermedio/ej08_vocales.md) |
+| **09** | [Nombre o descripción breve del ejercicio 9](./ejercicio_09.md) | [Ver solución](./ejercicios/intermedio/ej09_fibonacci.md) |
+| **10** | [Nombre o descripción breve del ejercicio 10](./ejercicio_10.md) | [Ver solución](./ejercicios/intermedio/ej10_login.md) |
 | **11** | [Nombre o descripción breve del ejercicio 11](./ejercicio_11.md) | [Ver solución](./ejercicio_11.md) |
 | **12** | [Nombre o descripción breve del ejercicio 12](./ejercicio_12.md) | [Ver solución](./ejercicio_12.md) |
 | **13** | [Nombre o descripción breve del ejercicio 13](./ejercicio_13.md) | [Ver solución](./ejercicio_13.md) |
