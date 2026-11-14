@@ -72,4 +72,10 @@ Cada ejercicio incluye:
 
 ## Estructura de Directorios
 
+Este repositorio se encuentra organizado de la siguiente manera:
+
+* `/ejercicios/basico/` - Carpeta contenedora de los archivos Markdown (`.md`) correspondientes a los ejercicios del 01 al 05.
+* `/ejercicios/intermedio/` - Carpeta contenedora de los archivos Markdown (`.md`) correspondientes a los ejercicios del 06 al 10.
+* `/ejercicios/avanzado/` - Carpeta contenedora de los archivos Markdown (`.md`) correspondientes a los ejercicios del 11 al 15.
 * `/diagramas/` - Carpeta contenedora de las imágenes correspondientes a los diagramas de flujo de cada ejercicio en formatos compatibles (`.png`, `.jpg`, `.svg`).
+.
