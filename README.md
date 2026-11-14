@@ -17,7 +17,7 @@ Cada ejercicio incluye:
 
 ---
 
-## Tabla de Contenido - Ejercicios
+## Tabla de Contenido - Ejercicios (Archivos Markdown)
 
 ### Nivel Básico
 | N° | Ejercicio | Enlace al Archivo |
@@ -45,6 +45,28 @@ Cada ejercicio incluye:
 | **13** | [Ejercicio 13](./ejercicios/intermedio/ej13_nombre.md) | [Ver solución](./ejercicios/intermedio/ej13_nombre.md) |
 | **14** | [Ejercicio 14](./ejercicios/intermedio/ej14_nombre.md) | [Ver solución](./ejercicios/intermedio/ej14_nombre.md) |
 | **15** | [Ejercicio 15](./ejercicios/intermedio/ej15_nombre.md) | [Ver solución](./ejercicios/intermedio/ej15_nombre.md) |
+
+---
+
+## Índice de Diagramas de Flujo (Imágenes PNG)
+
+| N° | Ejercicio | Enlace al Diagrama (PNG) |
+| :---: | :--- | :--- |
+| **01** | Cálculo de Promedio de Notas | [Ver Diagrama](./diagramas/ej01_promedio.png) |
+| **02** | Cálculo de Área y Perímetro de un Rectángulo | [Ver Diagrama](./diagramas/ej02_rectangulo.png) |
+| **03** | Determinar si un Número es Positivo, Negativo o Cero | [Ver Diagrama](./diagramas/ej03_positivo_negativo.png) |
+| **04** | Calculadora Básica con Menú de Opciones | [Ver Diagrama](./diagramas/ej04_calculadora.png) |
+| **05** | Conversión de Temperatura (Celsius a Fahrenheit) | [Ver Diagrama](./diagramas/ej05_temperatura.png) |
+| **06** | Suma de Números Pares | [Ver Diagrama](./diagramas/ej06_suma_pares.png) |
+| **07** | Cálculo del Factorial de un Número | [Ver Diagrama](./diagramas/ej07_factorial.png) |
+| **08** | Conteo de Vocales en un Texto | [Ver Diagrama](./diagramas/ej08_vocales.png) |
+| **09** | Generación de la Serie de Fibonacci | [Ver Diagrama](./diagramas/ej09_fibonacci.png) |
+| **10** | Validación de Contraseña de sena | [Ver Diagrama](./diagramas/ej10_login.png) |
+| **11** | Ejercicio 11 | Pendiente |
+| **12** | Ejercicio 12 | Pendiente |
+| **13** | Ejercicio 13 | Pendiente |
+| **14** | Ejercicio 14 | Pendiente |
+| **15** | Ejercicio 15 | Pendiente |
 
 ---
 
