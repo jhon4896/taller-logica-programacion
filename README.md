@@ -35,7 +35,7 @@ Cada ejercicio incluye:
 | **07** | [Cálculo del Factorial de un Número](./ejercicios/intermedio/ej07_factorial.md) | [Ver solución](./ejercicios/intermedio/ej07_factorial.md) |
 | **08** | [Conteo de Vocales en un Texto](./ejercicios/intermedio/ej08_vocales.md) | [Ver solución](./ejercicios/intermedio/ej08_vocales.md) |
 | **09** | [Generación de la Serie de Fibonacci](./ejercicios/intermedio/ej09_fibonacci.md) | [Ver solución](./ejercicios/intermedio/ej09_fibonacci.md) |
-| **10** | [Validación de Contraseña con Intentos Limitados](./ejercicios/intermedio/ej10_login.md) | [Ver solución](./ejercicios/intermedio/ej10_login.md) |
+| **10** | [Validación de Contraseña de sena](./ejercicios/intermedio/ej10_login.md) | [Ver solución](./ejercicios/intermedio/ej10_login.md) |
 
 ### Nivel Avanzado 
 | N° | Ejercicio | Enlace al Archivo |
