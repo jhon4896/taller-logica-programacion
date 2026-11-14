@@ -1,7 +1,7 @@
 # Taller de Algoritmos y Diagramas de Flujo
 
 **Estudiante:** Jhon Fernando Castañeda Mesa  
-**Fecha de Entrega:** 13 de noviembre de 2026  
+**Fecha de Entrega:** 14 de noviembre de 2026  
 
 ---
 
