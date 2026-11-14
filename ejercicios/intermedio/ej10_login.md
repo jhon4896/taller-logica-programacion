@@ -1,4 +1,4 @@
-# Ejercicio 10: Validación de Contraseña con Intentos Limitados
+# Ejercicio 10: Validación de Contraseña de sena
 
 ## Enunciado
 Desarrollar un algoritmo que simule un sistema de autenticación por contraseña, permitiendo al usuario un máximo de 3 intentos para ingresar la clave correcta. Si acierta, el sistema concede el acceso; si agota los intentos, la cuenta se bloquea.
