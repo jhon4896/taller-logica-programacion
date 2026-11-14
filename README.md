@@ -21,7 +21,7 @@ Cada ejercicio incluye:
 
 | N° | Ejercicio | Enlace al Archivo |
 | :---: | :--- | :--- |
-| **01** | [Nombre o descripción breve del ejercicio 1](./ejercicio_01.md) | [Ver solución](./ej01_promedio.md) |
+| **01** | [Nombre o descripción breve del ejercicio 1](./ejercicio_01.md) | [Ver solución](./ejercicios/basico/ej01_promedio.md) |
 | **02** | [Nombre o descripción breve del ejercicio 2](./ejercicio_02.md) | [Ver solución](./ej02_rectangulo.md) |
 | **03** | [Nombre o descripción breve del ejercicio 3](./ejercicio_03.md) | [Ver solución](./ej03_positivo_negativo.md) |
 | **04** | [Nombre o descripción breve del ejercicio 4](./ejercicio_04.md) | [Ver solución](./ej04_calculadora.md) |
