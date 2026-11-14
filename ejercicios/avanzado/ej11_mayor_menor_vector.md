@@ -22,36 +22,36 @@ Desarrollar un algoritmo que permita almacenar 10 números enteros en un vector 
 
 ```text
 Algoritmo Mayor_Y_Menor_Vector
-	Definir vector, ciclo, mayor, menor, posicionMayor, posicionMenor Como Entero;
-	Dimension vector[11];
-	
-	// 1. Lectura de los 10 números
-	Para ciclo <- 1 Hasta 10 Con Paso 1 Hacer
-		Escribir "Ingrese el número entero para la posición ", ciclo, ":";
-		Leer vector[ciclo];
-	FinPara
-	
-	// 2. Inicializamos mayor y menor con el primer elemento
-	mayor <- vector[1];
-	menor <- vector[1];
-	posicionMayor <- 1;
-	posicionMenor <- 1;
-	
-	// 3. Recorremos desde la posición 2 hasta la 10 para comparar
-	Para ciclo <- 2 Hasta 10 Con Paso 1 Hacer
-		Si vector[ciclo] > mayor Entonces
-			mayor <- vector[ciclo];
-			posicionMayor <- ciclo;
-		FinSi
-		
-		Si vector[ciclo] < menor Entonces
-			menor <- vector[ciclo];
-			posicionMenor <- ciclo;
-		FinSi
-	FinPara
-	
-	// 4. Mostrar resultados
-	Escribir "----------------------------------------";
-	Escribir "El número MAYOR es: ", mayor, " y está en la posición: ", posicionMayor;
-	Escribir "El número MENOR es: ", menor, " y está en la posición: ", posicionMenor;
+    Definir vector, ubicacion, mayor, menor, posicionMayor, posicionMenor Como Entero;
+    Dimension vector[11];
+    
+    // 1. Lectura de los 10 números
+    Para ubicacion <- 1 Hasta 10 Con Paso 1 Hacer
+        Escribir "Ingrese el número entero para la posición ", ubicacion, ":";
+        Leer vector[ubicacion];
+    FinPara
+    
+    // 2. Inicializamos mayor y menor con el primer elemento
+    mayor <- vector[1];
+    menor <- vector[1];
+    posicionMayor <- 1;
+    posicionMenor <- 1;
+    
+    // 3. Recorremos desde la posición 2 hasta la 10 para comparar
+    Para ubicacion <- 2 Hasta 10 Con Paso 1 Hacer
+        Si vector[ubicacion] > mayor Entonces
+            mayor <- vector[ubicacion];
+            posicionMayor <- ubicacion;
+        FinSi
+        
+        Si vector[ubicacion] < menor Entonces
+            menor <- vector[ubicacion];
+            posicionMenor <- ubicacion;
+        FinSi
+    FinPara
+    
+    // 4. Mostrar resultados
+    Escribir "----------------------------------------";
+    Escribir "El número MAYOR es: ", mayor, " y está en la posición: ", posicionMayor;
+    Escribir "El número MENOR es: ", menor, " y está en la posición: ", posicionMenor;
 FinAlgoritmo
