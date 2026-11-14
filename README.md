@@ -8,7 +8,7 @@ Repositorio oficial que contiene la solución de los 15 ejercicios prácticos de
 * **fecha de entrega:** 14 de noviembre de 2026
 
 ## 📁 Estructura del Repositorio
-- `ejercicios/basico/`: Enunciados y código de los ejercicios 1 al 5.
+- `ejercicios/basico`: Enunciados y código de los ejercicios 1 al 5.
 - `ejercicios/intermedio/`: Enunciados y código de los ejercicios 6 al 10.
 - `ejercicios/avanzado/`: Enunciados y código de los ejercicios 11 al 15.
 - `diagramas/`: Diagramas de flujo en formato PNG correspondientes a cada solución.
