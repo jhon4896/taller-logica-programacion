@@ -40,7 +40,7 @@ Cada ejercicio incluye:
 ### Nivel Avanzado 
 | N° | Ejercicio | Enlace al Archivo |
 | :---: | :--- | :--- |
-| **11** | [Ejercicio 11](./ejercicios/intermedio/ej11_nombre.md) | [Ver solución](./ejercicios/avanzado/ej11_mayor_menor_vector.md) |
+| **11** | [mayor y menor de voctor](./ejercicios/avanzado/ej11_mayor_menor_vector.md) | [Ver solución](./ejercicios/avanzado/ej11_mayor_menor_vector.md) |
 | **12** | [Ejercicio 12](./ejercicios/intermedio/ej12_nombre.md) | [Ver solución](./ejercicios/intermedio/ej12_nombre.md) |
 | **13** | [Ejercicio 13](./ejercicios/intermedio/ej13_nombre.md) | [Ver solución](./ejercicios/intermedio/ej13_nombre.md) |
 | **14** | [Ejercicio 14](./ejercicios/intermedio/ej14_nombre.md) | [Ver solución](./ejercicios/intermedio/ej14_nombre.md) |
